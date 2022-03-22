@@ -4,7 +4,7 @@
   "description": "Node.js implementation of the bark-server",
   "main": "index.js",
   "scripts": {
-    "serve": "node app.js"
+    "start": "node app.js"
   },
   "author": "dss886",
   "license": "Apache License 2.0",
